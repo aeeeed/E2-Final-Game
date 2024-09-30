@@ -1,0 +1,1708 @@
+fileFormatVersion: 2
+guid: e7fed8421bf4cea44ab840857449d556
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chara sprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 337
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d625309d43e1da4499cacca82dc66cc8
+      internalID: 2050950098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 338
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df699a0511045334ba407157add65172
+      internalID: 1441604733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 337
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6655b90655dc144a76abfda28fb63f
+      internalID: -119260763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 337
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710204e0fd57d64fb42b5e9b339f1f3
+      internalID: -2099611081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 338
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a7b5cad7ae9114e85b5b1bd852fc2d
+      internalID: 1890699872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 337
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209ca5f29ca8b34a99c00d9d30b4e4d
+      internalID: -1796842515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 337
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16741eb371569334ca8c36bd22bb545c
+      internalID: -128478940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 338
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad4a0e0380b81e4286692b404d23388
+      internalID: 902616934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 337
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45383ed4dc6c4eb4ead02e5909476567
+      internalID: -449089265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 337
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebf47dda02ca704dab92296d76a1b6f
+      internalID: 1125584073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 338
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513db7a0c4f3fcb4f8d004a9ac6bfdb0
+      internalID: -464454540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 337
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b07b54cc836a468d483abc28d4959
+      internalID: 1628347968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 290
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b30f03266bc1841984bb56cdb55380
+      internalID: -279184167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 290
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbebf0e3510c474b86bdea941f58323
+      internalID: 948524499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 290
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd1571d1f48c484788e7cf373ea220f
+      internalID: -1697878068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 290
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143436649725d064794d6f76586af9bb
+      internalID: -110634222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 290
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded6bedc35498fb46bc7036c045ff71c
+      internalID: 1169521940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 290
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee96f754f1c67a4e9dfe99e69aae1f0
+      internalID: 855308775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 290
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ce09026c6aa63458a54c3df1cdd21f
+      internalID: -1640576345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d766fc5f77af08e4799c9e40a302389c
+      internalID: 184643575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 290
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bcea605903234da4e0745ffc21bef
+      internalID: 1939819343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a10f363b6e0074aa41ea04d4468846
+      internalID: 525621968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 290
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610524aba5cda2a49b3430b1fc9b0e03
+      internalID: -2056982490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 290
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126f8cb32906d474c9d73465b2e2369f
+      internalID: -802240184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 242
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929b7f38b27ce64b8c9a8a73dc0a405
+      internalID: -1745082766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 242
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba40fabacd94140950ffd92cda494d
+      internalID: -616296268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 242
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3996133200b0a2438b1820a72e05b4e
+      internalID: 1253553100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 242
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b274cdbe542404385c3f09a735fa93
+      internalID: -1342705064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 242
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f109a99f6f60ec94c861b9d843fc343d
+      internalID: 970147965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 242
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4de81370520814682878ae4cdf5177
+      internalID: -2016279278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 242
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de9b21475599954e953c4d8947fdfe7
+      internalID: -1844158685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 242
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2986bcf6ee86f46a66f55d476e6f8b
+      internalID: -196009340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 242
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bcfaebdea37442bcb34c76ae18973
+      internalID: 1484741461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_33
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 242
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb5a322c76dd94494a0001ef19360d
+      internalID: -1562668779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_34
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 242
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9f730d98d5534d8fafbdb7ca45709
+      internalID: -1511313855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 242
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fa26267ca98642b10f843c56ca5ff
+      internalID: 845886448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 193
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6349439d773d4d9bd41be49a5fd07
+      internalID: 455139449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 194
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6908ba83932e4694a13e9c9303b39
+      internalID: 493873693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 193
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed6cf4f4c0ac348884afc806bc2c88
+      internalID: -863402481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 193
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155594b5f28bf7a48af8c88bcfc63275
+      internalID: -1324443450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 194
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36f94d4d6534f48b18036a7249ff6c
+      internalID: 1391934099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 193
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eacfd6de6a8ee4f8704fc6abb1f6ad
+      internalID: 1178968420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 193
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b97d023be6e4d46b9a0af77d0001a8
+      internalID: 1361553911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 194
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fdb1a5c52630b42867426f7a97b473
+      internalID: -1872136945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 193
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3f7ee19f86a024c84450ba303d6bd3
+      internalID: -1357256188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_45
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 193
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df32e1b0edd6d4eb3c3ccc93142658
+      internalID: 211052179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_46
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 194
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f461b1dc2f1ef448d8be20535d9b23
+      internalID: 864285358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_47
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 193
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb3123cc8b7e2545bfe07d194fd6032
+      internalID: -176913439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_48
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edda21d7a036514b9650253f321759d
+      internalID: 612474245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 146
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc2e428c319c484b8c2b38e24d5a533
+      internalID: 1329665694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 145
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470efec03b11f414584017d39c923ba2
+      internalID: 1663817567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_51
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 145
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee36c15307c444689a443cc1d6e769
+      internalID: 372416081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 146
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4497ebd4b4094248af9fb63734a85fc
+      internalID: 1637080170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 145
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf395dc939d3e4796885e7a88effb3
+      internalID: 871442511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4f407ee8e40d54da5d84203c81a7b8
+      internalID: -626237178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_55
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011a8165b476db54a9b2e8c4af13f10f
+      internalID: 666865531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_56
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82254467c5d4662499f962bf475d585e
+      internalID: -625444915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd338d32f4c3a43a0ab73d8164131c
+      internalID: 270033969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 98
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535f2e3935dcf784c911273ddaeb4412
+      internalID: 1054372995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_59
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921fe7d48c2eb024b8c4e851e0c9100f
+      internalID: 210254340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 50
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22bfb0d2dad4d4b90852a826c20845
+      internalID: -2011165316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 50
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3939ca43662cde847b56938f16a1d53b
+      internalID: 1851614979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_62
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 50
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc156f2d7b872845a864badc7420746
+      internalID: 132586709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 50
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7952a826bbe8cd4caca0cce59697049
+      internalID: 695662992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a4b43d76584547ac07a44ee9096a6
+      internalID: -362455205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 50
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1668ad44f457cb40b64304a99ad4ff3
+      internalID: 1804850140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_66
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df779d118fc7f41966c9ee5ad5f8ec
+      internalID: -1341967396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_67
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f5977bf39d8c4882773ec2c504f64
+      internalID: 350360183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507bd31bb090cd54a8756dda073cf6bf
+      internalID: -825279912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_69
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c532df7d58be489a01c30176708f5
+      internalID: -328968113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31e312761a52b44a0364a77db58f28
+      internalID: -915413211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chara sprites_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aac658eb034424da535242dc5aad7d
+      internalID: -925400034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chara sprites_0: 2050950098
+      chara sprites_1: 1441604733
+      chara sprites_10: -464454540
+      chara sprites_11: 1628347968
+      chara sprites_12: -279184167
+      chara sprites_13: 948524499
+      chara sprites_14: -1697878068
+      chara sprites_15: -110634222
+      chara sprites_16: 1169521940
+      chara sprites_17: 855308775
+      chara sprites_18: -1640576345
+      chara sprites_19: 184643575
+      chara sprites_2: -119260763
+      chara sprites_20: 1939819343
+      chara sprites_21: 525621968
+      chara sprites_22: -2056982490
+      chara sprites_23: -802240184
+      chara sprites_24: -1745082766
+      chara sprites_25: -616296268
+      chara sprites_26: 1253553100
+      chara sprites_27: -1342705064
+      chara sprites_28: 970147965
+      chara sprites_29: -2016279278
+      chara sprites_3: -2099611081
+      chara sprites_30: -1844158685
+      chara sprites_31: -196009340
+      chara sprites_32: 1484741461
+      chara sprites_33: -1562668779
+      chara sprites_34: -1511313855
+      chara sprites_35: 845886448
+      chara sprites_36: 455139449
+      chara sprites_37: 493873693
+      chara sprites_38: -863402481
+      chara sprites_39: -1324443450
+      chara sprites_4: 1890699872
+      chara sprites_40: 1391934099
+      chara sprites_41: 1178968420
+      chara sprites_42: 1361553911
+      chara sprites_43: -1872136945
+      chara sprites_44: -1357256188
+      chara sprites_45: 211052179
+      chara sprites_46: 864285358
+      chara sprites_47: -176913439
+      chara sprites_48: 612474245
+      chara sprites_49: 1329665694
+      chara sprites_5: -1796842515
+      chara sprites_50: 1663817567
+      chara sprites_51: 372416081
+      chara sprites_52: 1637080170
+      chara sprites_53: 871442511
+      chara sprites_54: -626237178
+      chara sprites_55: 666865531
+      chara sprites_56: -625444915
+      chara sprites_57: 270033969
+      chara sprites_58: 1054372995
+      chara sprites_59: 210254340
+      chara sprites_6: -128478940
+      chara sprites_60: -2011165316
+      chara sprites_61: 1851614979
+      chara sprites_62: 132586709
+      chara sprites_63: 695662992
+      chara sprites_64: -362455205
+      chara sprites_65: 1804850140
+      chara sprites_66: -1341967396
+      chara sprites_67: 350360183
+      chara sprites_68: -825279912
+      chara sprites_69: -328968113
+      chara sprites_7: 902616934
+      chara sprites_70: -915413211
+      chara sprites_71: -925400034
+      chara sprites_8: -449089265
+      chara sprites_9: 1125584073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

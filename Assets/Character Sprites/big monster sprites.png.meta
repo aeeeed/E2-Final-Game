@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: fb82823b7c8cfc940a51309c1c49af7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big monster sprites_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 676
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648945d3674591d4c9d79c49488df758
+      internalID: -1788889168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 676
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a593f7dd7478c9d43ae306353c336533
+      internalID: 465032585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 676
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e321014a60e7428facc93b588b573
+      internalID: -1780553518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 676
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0207e9d849029d346b5ff9a22d1321b3
+      internalID: 999903800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 673
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f246f5a4c1051f4bae47fd0a7743130
+      internalID: -1890072334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_5
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 676
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d57e197fc37d341bd85db83371fa66
+      internalID: -1087185097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 678
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127619f7bff3e6c468c1a201acba9084
+      internalID: -1048787022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 678
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4adbf48f49520499d8c933163a53d8
+      internalID: -472029546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_8
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 679
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b615de0b28c413544ad76e58bd57fe1c
+      internalID: -1957645422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 583
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fc7dbab2630c4458c1160472c62871
+      internalID: 556422507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 584
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c8739d9efa904f9034ff21ca203f6
+      internalID: -1348032146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 581
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8cd8d78434fc4aad7b8d2feb08a71
+      internalID: -1232238721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 582
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9ee503028625544893ef1d04d7505d
+      internalID: 1231315121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 576
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3333e29ce07974d8831ebe478c7a83
+      internalID: -292289873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_14
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 576
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ec920e9e527f749a8c26f702dae798
+      internalID: 693979882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_15
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 582
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6370ce9f0c494ea2d0b83afdae5cd
+      internalID: -1730628981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 582
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44977c77d61db0418fa3ebfd9dfc60e
+      internalID: -75464415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 583
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515f60a18d653944ebe6d79ddf75227d
+      internalID: 557254258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 485
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84544cb4e7a45de47bbda0a809426cda
+      internalID: 546731077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 488
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3ac0a4f9ee714cae061d7e6170b1e
+      internalID: -966739214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 487
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4862c5e2c7acb44ba8d4c0b2c55143
+      internalID: 139803791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 480
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b8d4db15a5004bb99394638c00f9b
+      internalID: -1711063333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 480
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e8ac2257cd33443a0e53d43c5917a3
+      internalID: 2134132721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_23
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 486
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb82eb5da82c6f4f86870038ae05f82
+      internalID: 1473505536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 487
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc9bb43521b7f439b6ef94d2d2b75a
+      internalID: -937833576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_25
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 486
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ac69ea98e00174a8c093571f100976
+      internalID: -646064295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_26
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 486
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c5a97f23b1b9d49a5316cba4ab77ea
+      internalID: 1401615254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 385
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367f9d5651c3c0948b7eac802d775051
+      internalID: -1781765768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 387
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a5213b5f3abc34d8c0d756740d140e
+      internalID: 593342339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 389
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6820b161d55baa646aff5e16b4f0e73e
+      internalID: -786029866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 385
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793694f3b85f544a944898c9d96b8ab
+      internalID: -1171025560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 384
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b8e8413eb089444bbb35b55e2992a4
+      internalID: 1854349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_32
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 389
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418484cb45243cf43ba6ac8d2ac98836
+      internalID: 38730597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_33
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 391
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91cd36f6a4e4b45ac5158f4e82fac0
+      internalID: 61196006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_34
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 390
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e593ae0da578f074da0ef51b95a115b4
+      internalID: 28622996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big monster sprites_35
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 390
+        width: 93
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812cd714770b0bd4fbc91bb42b807627
+      internalID: 1175438014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      big monster sprites_0: -1788889168
+      big monster sprites_1: 465032585
+      big monster sprites_10: -1348032146
+      big monster sprites_11: -1232238721
+      big monster sprites_12: 1231315121
+      big monster sprites_13: -292289873
+      big monster sprites_14: 693979882
+      big monster sprites_15: -1730628981
+      big monster sprites_16: -75464415
+      big monster sprites_17: 557254258
+      big monster sprites_18: 546731077
+      big monster sprites_19: -966739214
+      big monster sprites_2: -1780553518
+      big monster sprites_20: 139803791
+      big monster sprites_21: -1711063333
+      big monster sprites_22: 2134132721
+      big monster sprites_23: 1473505536
+      big monster sprites_24: -937833576
+      big monster sprites_25: -646064295
+      big monster sprites_26: 1401615254
+      big monster sprites_27: -1781765768
+      big monster sprites_28: 593342339
+      big monster sprites_29: -786029866
+      big monster sprites_3: 999903800
+      big monster sprites_30: -1171025560
+      big monster sprites_31: 1854349172
+      big monster sprites_32: 38730597
+      big monster sprites_33: 61196006
+      big monster sprites_34: 28622996
+      big monster sprites_35: 1175438014
+      big monster sprites_4: -1890072334
+      big monster sprites_5: -1087185097
+      big monster sprites_6: -1048787022
+      big monster sprites_7: -472029546
+      big monster sprites_8: -1957645422
+      big monster sprites_9: 556422507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
